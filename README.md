@@ -1,1 +1,1 @@
-![ResearchMind Architecture](ASSETS/architecture.png)
+![ResearchMind Architecture](MULTI-AGENTPNG.png)
